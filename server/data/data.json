@@ -1,0 +1,58 @@
+{
+  "Dishes": [
+      {
+        "name": "Cheesy Chicken Hotpot",
+        "img": "../src/resources/images/1.chChHp.jpg",
+        "price": 299,
+        "veg": false,
+        "cuisine": "American",
+        "tag": "Best offers",
+
+        "id": 1
+    },
+
+    {
+        "name": "Ghee Roast Chicken Bowl",
+        "img": "src/resources/images/1.chChHp.jpg",
+        "price": 299,
+        "veg": false,
+        "cuisine": "Indian",
+        "tag": "Best offers",
+
+        "id": 2
+    },
+
+    {
+        "name": "Butter Chicken Bowl",
+        "img": "src/resources/images/1.chChHp.jpg",
+        "price": 299,
+        "veg": false,
+        "cuisine": "Indian",
+        "tag": "Best offers",
+
+        "id": 3
+    },
+
+    {
+        "name": "Dal Makhani Bowl",
+        "img": "src/resources/images/1.chChHp.jpg",
+        "price": 235,
+        "veg": true,
+        "cuisine": "North Indian",
+        "tag": "Best offers",
+
+        "id": 4
+    },
+
+    {
+        "name": "Chole Chaawal",
+        "img": "src/resources/images/1.chChHp.jpg",
+        "price": 249,
+        "veg": true,
+        "cuisine": "Indian",
+        "tag": "Best offers",
+        
+        "id": 5
+    }
+  ]
+}
