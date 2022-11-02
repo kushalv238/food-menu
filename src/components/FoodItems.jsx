@@ -12,9 +12,7 @@ const FoodItems = ({ foodItems }) => {
                     cuisineType = {
                         foodItems.veg ? 'green' : 'red'
                     }
-                >
-
-                </FoodItem>
+                />
             ))
         }
         </div>
