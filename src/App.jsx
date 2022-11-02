@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import FoodItems from "./FoodItems";
+import FoodItems from "./components/FoodItems";
 
 const App = () => {
     const[dish, setDish] = useState([]);

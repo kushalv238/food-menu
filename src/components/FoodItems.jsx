@@ -1,5 +1,4 @@
 import FoodItem from "./FoodItem";
-import '../index.css';
 
 const FoodItems = ({ foodItems }) => {
     return(
