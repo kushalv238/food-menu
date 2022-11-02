@@ -1,4 +1,4 @@
-# A TASK TRACKER APPLICATION
+# A FOOD-MENU APPLICATION
 
 This project was created with the help of [React App by Facebook](https://github.com/facebook/create-react-app).
 <img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
