@@ -1,6 +1,8 @@
 import { useState, useEffect } from "react";
 import FoodItems from "./components/FoodItems";
 
+import './style/index.css';
+
 const App = () => {
     const[dish, setDish] = useState([]);
 
